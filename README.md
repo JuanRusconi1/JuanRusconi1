@@ -4,7 +4,7 @@
 
 - 🏢 Actualmente trabajo como **Freelance FullStack**
 - 🎓 Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN, Facultad Regional Villa María.
-- 🏡'Resido en en **Córdoba, Argentina**
+- 🏡 Resido en **Córdoba, Argentina**
 
 <br>
 
